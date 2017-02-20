@@ -1,0 +1,2 @@
+F:\zlc\实验室\RFID\西安交通大学参考\examples\LowDutyCycle\bin\Debug\LowDutyCycle.exe.config
+F:\RFID程序-EXCEL\RFID程序-EXCEL\examples\LowDutyCycle\bin\Debug\LowDutyCycle.exe.config
